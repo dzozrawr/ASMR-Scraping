@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c54812c195d4a649ba8c205165e1f50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - button: {instanceID: 0}
+  - priceText: {instanceID: 0}
+  - buttonImg: {instanceID: 0}
+  - disabledSprite: {fileID: 21300000, guid: 2eea0d934ff2d184d8e4442a10e92340, type: 3}
+  - enabledSprite: {fileID: 21300000, guid: cbeaaa287cbb6094280bc4ba755767a4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
